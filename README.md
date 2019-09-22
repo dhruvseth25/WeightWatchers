@@ -8,7 +8,9 @@ Content of repository:
 
 2) Folder Question2 contains code for Question 2.
 
-  * Execution using Eclipse.
+  * Import the project to Eclipse
+  * MAke sure you are connected to internet for first build, because we need few maven plugins and libraries to be downloaded and imported.
+  * Navigate to /src/test/java in Eclipse and build & run com.testCases.Question2.java
 
 3) Folder Question3 contains code for Question 3.
 
