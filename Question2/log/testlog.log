@@ -1,0 +1,714 @@
+2019-09-19 13:29:49,935 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-19 13:30:02,188 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-19 13:30:02,399 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-19 13:30:02,400 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-19 13:30:07,103 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-19 13:30:07,103 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-19 13:30:07,186 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-19 13:30:07,186 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-19 13:30:07,456 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-19 13:30:07,906 - WeightWatchers -INFO - Step 5 passed
+2019-09-19 16:32:54,887 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-19 16:33:21,358 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-19 16:33:21,825 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-19 16:33:21,825 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-19 16:33:26,671 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-19 16:33:26,672 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-19 16:33:26,722 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-19 16:33:26,722 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-19 16:33:26,881 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-19 16:33:27,275 - WeightWatchers -INFO - Step 5 passed
+2019-09-19 16:33:28,064 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-19 16:33:28,789 - WeightWatchers -INFO - First result link clicked
+2019-09-21 13:23:43,648 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-21 13:24:13,540 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-21 13:24:14,232 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-21 13:24:14,233 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-21 13:24:22,315 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-21 13:24:22,316 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-21 13:24:22,493 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-21 13:24:22,493 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-21 13:24:23,123 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-21 13:24:24,668 - WeightWatchers -INFO - Step 5 passed
+2019-09-21 13:24:27,926 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-21 13:24:29,261 - WeightWatchers -INFO - First result link clicked
+2019-09-21 13:27:15,065 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-21 13:27:27,528 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-21 13:27:27,886 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-21 13:27:27,887 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-21 13:27:33,070 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-21 13:27:33,070 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-21 13:27:33,146 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-21 13:27:33,147 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-21 13:27:33,307 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-21 13:27:33,728 - WeightWatchers -INFO - Step 5 passed
+2019-09-21 13:27:34,702 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-21 13:27:35,765 - WeightWatchers -INFO - First result link clicked
+2019-09-21 13:35:46,123 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-21 13:35:59,552 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-21 13:36:00,177 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-21 13:36:00,179 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-21 13:36:05,006 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-21 13:36:05,006 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-21 13:36:05,088 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-21 13:36:05,089 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-21 13:36:05,302 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-21 13:36:05,687 - WeightWatchers -INFO - Step 5 passed
+2019-09-21 13:37:50,290 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-21 13:38:01,608 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-21 13:38:02,043 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-21 13:38:02,044 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-21 13:38:06,978 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-21 13:38:06,979 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-21 13:38:07,041 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-21 13:38:07,042 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-21 13:38:07,215 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-21 13:38:07,718 - WeightWatchers -INFO - Step 5 passed
+2019-09-21 13:38:08,631 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-21 13:38:09,519 - WeightWatchers -INFO - First result link clicked
+2019-09-21 13:39:18,174 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-21 13:39:29,210 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-21 13:39:29,620 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-21 13:39:29,621 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-21 13:39:34,327 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-21 13:39:34,327 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-21 13:39:34,560 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-21 13:39:34,561 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-21 13:39:34,714 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-21 13:39:35,168 - WeightWatchers -INFO - Step 5 passed
+2019-09-21 13:39:36,150 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-21 13:39:37,119 - WeightWatchers -INFO - First result link clicked
+2019-09-21 13:46:18,086 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-21 13:46:31,289 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-21 13:46:31,715 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-21 13:46:31,716 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-21 13:46:36,509 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-21 13:46:36,509 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-21 13:46:36,569 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-21 13:46:36,570 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-21 13:46:36,726 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-21 13:46:37,152 - WeightWatchers -INFO - Step 5 passed
+2019-09-21 13:48:45,832 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-21 13:48:57,864 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-21 13:48:58,403 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-21 13:48:58,404 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-21 13:49:04,323 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-21 13:49:04,324 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-21 13:49:04,379 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-21 13:49:04,379 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-21 13:49:04,540 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-21 13:49:04,925 - WeightWatchers -INFO - Step 5 passed
+2019-09-21 13:49:05,633 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-21 13:49:06,387 - WeightWatchers -INFO - First result link clicked
+2019-09-21 13:50:47,830 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-21 13:50:58,723 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-21 13:50:59,042 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-21 13:50:59,043 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-21 13:51:04,088 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-21 13:51:04,088 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-21 13:51:04,157 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-21 13:51:04,157 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-21 13:51:04,363 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-21 13:51:04,851 - WeightWatchers -INFO - Step 5 passed
+2019-09-21 13:51:05,870 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-21 13:51:06,656 - WeightWatchers -INFO - First result link clicked
+2019-09-21 13:51:06,819 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-21 13:51:06,820 - WeightWatchers -INFO - Step7 has passed 
+2019-09-21 13:56:55,448 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-21 13:57:09,635 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-21 13:57:09,993 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-21 13:57:09,994 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-21 13:57:14,382 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-21 13:57:14,382 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-21 13:57:14,445 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-21 13:57:14,446 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-21 13:57:14,614 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-21 13:57:14,985 - WeightWatchers -INFO - Step 5 passed
+2019-09-21 13:57:15,899 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-21 13:57:16,711 - WeightWatchers -INFO - First result link clicked
+2019-09-21 13:57:16,916 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-21 13:57:16,916 - WeightWatchers -INFO - Step7 has passed 
+2019-09-21 13:59:57,598 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-21 14:00:09,329 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-21 14:00:09,884 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-21 14:00:09,885 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-21 14:00:15,098 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-21 14:00:15,099 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-21 14:00:15,168 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-21 14:00:15,168 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-21 14:00:15,312 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-21 14:00:15,648 - WeightWatchers -INFO - Step 5 passed
+2019-09-21 14:00:16,423 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-21 14:00:17,120 - WeightWatchers -INFO - First result link clicked
+2019-09-21 14:00:17,275 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-21 14:00:17,275 - WeightWatchers -INFO - Step7 has passed 
+2019-09-21 14:03:02,161 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-21 14:03:15,474 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-21 14:03:15,825 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-21 14:03:15,826 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-21 14:03:21,443 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-21 14:03:21,444 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-21 14:03:21,531 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-21 14:03:21,532 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-21 14:03:21,761 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-21 14:03:22,200 - WeightWatchers -INFO - Step 5 passed
+2019-09-21 15:23:34,950 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-21 15:23:55,751 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-21 15:23:56,246 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-21 15:23:56,246 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-21 15:24:01,453 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-21 15:24:01,453 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-21 15:24:01,522 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-21 15:24:01,523 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-21 15:24:01,683 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-21 15:24:02,274 - WeightWatchers -INFO - Step 5 passed
+2019-09-21 15:24:03,239 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-21 15:24:04,056 - WeightWatchers -INFO - First result link clicked
+2019-09-21 15:24:04,271 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-21 15:24:04,273 - WeightWatchers -INFO - Step7 has passed 
+2019-09-21 16:39:38,394 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-21 16:39:50,276 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-21 16:39:50,855 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-21 16:39:50,856 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-21 16:39:54,871 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-21 16:39:54,872 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-21 16:39:54,944 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-21 16:39:54,944 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-21 16:39:55,120 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-21 16:39:55,609 - WeightWatchers -INFO - Step 5 passed
+2019-09-21 16:39:56,543 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-21 16:39:57,297 - WeightWatchers -INFO - First result link clicked
+2019-09-21 16:39:57,644 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-21 16:39:57,645 - WeightWatchers -INFO - Step7 has passed 
+2019-09-21 16:39:57,804 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-21 16:39:57,805 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-21 16:39:57,808 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 10:52:08,376 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 10:52:21,919 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 10:52:22,469 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 10:52:22,470 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 10:52:27,560 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 10:52:27,561 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 10:52:27,625 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 10:52:27,626 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 10:52:27,796 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 10:52:28,330 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 10:52:29,448 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 10:52:30,299 - WeightWatchers -INFO - First result link clicked
+2019-09-22 10:52:30,478 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 10:52:30,478 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 10:52:30,683 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 10:52:30,684 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 10:52:30,686 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 11:49:37,873 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 11:49:53,320 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 11:49:54,616 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 11:49:54,616 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 11:50:03,553 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 11:50:03,557 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 11:50:03,619 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 11:50:03,619 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 11:50:03,780 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 11:50:04,212 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 11:50:05,155 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 11:50:06,046 - WeightWatchers -INFO - First result link clicked
+2019-09-22 11:50:06,330 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 11:50:06,334 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 11:50:06,522 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 11:50:06,522 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 11:50:06,522 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 12:05:29,458 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 12:05:42,084 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 12:05:42,603 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 12:05:42,603 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 12:05:47,883 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 12:05:47,883 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 12:05:47,947 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 12:05:47,947 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 12:05:48,140 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 12:05:48,612 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 12:05:49,648 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 12:05:50,485 - WeightWatchers -INFO - First result link clicked
+2019-09-22 12:05:50,724 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 12:05:50,724 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 12:05:50,971 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 12:05:50,971 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 12:05:50,975 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 12:28:32,161 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 12:28:45,300 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 12:28:45,521 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 12:28:45,521 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 12:28:50,409 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 12:28:50,412 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 12:28:50,463 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 12:28:50,463 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 12:28:50,620 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 12:28:51,057 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 12:29:08,537 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 12:29:19,135 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 12:29:19,528 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 12:29:19,528 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 12:29:23,645 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 12:29:23,645 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 12:29:23,716 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 12:29:23,716 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 12:29:23,872 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 12:29:24,342 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 12:29:25,526 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 12:29:26,441 - WeightWatchers -INFO - First result link clicked
+2019-09-22 12:29:26,698 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 12:29:26,698 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 12:29:26,930 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 12:29:26,930 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 12:29:26,938 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 12:38:24,408 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 12:38:36,697 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 12:38:37,048 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 12:38:37,052 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 12:38:41,670 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 12:38:41,674 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 12:38:41,731 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 12:38:41,731 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 12:38:41,951 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 12:38:42,311 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 12:38:43,203 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 12:38:43,914 - WeightWatchers -INFO - First result link clicked
+2019-09-22 12:38:44,098 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 12:38:44,098 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 12:38:44,345 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 12:38:44,349 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 12:38:44,352 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 12:42:41,505 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 12:42:52,531 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 12:42:53,089 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 12:42:53,089 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 12:42:57,133 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 12:42:57,133 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 12:42:57,195 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 12:42:57,195 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 12:42:57,351 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 12:42:57,707 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 12:42:58,715 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 12:42:59,589 - WeightWatchers -INFO - First result link clicked
+2019-09-22 12:42:59,785 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 12:42:59,787 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 12:42:59,971 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 12:42:59,975 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 12:42:59,975 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 12:50:31,266 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 12:50:43,949 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 12:50:44,445 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 12:50:44,445 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 12:50:48,902 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 12:50:48,904 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 12:50:48,962 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 12:50:48,962 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 12:50:49,147 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 12:50:49,579 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 12:53:07,415 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 12:53:18,066 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 12:53:18,455 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 12:53:18,455 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 12:53:23,003 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 12:53:23,003 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 12:53:23,046 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 12:53:23,046 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 12:53:23,236 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 12:53:23,684 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 12:53:24,784 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 12:53:25,735 - WeightWatchers -INFO - First result link clicked
+2019-09-22 12:53:26,101 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 12:53:26,101 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 12:53:26,229 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 12:53:26,229 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 12:53:26,229 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 12:57:46,139 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 12:57:56,361 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 12:57:56,599 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 12:57:56,599 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 12:58:01,229 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 12:58:01,265 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 12:58:01,320 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 12:58:01,320 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 12:58:01,504 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 12:58:01,972 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 12:58:02,907 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 12:58:03,726 - WeightWatchers -INFO - First result link clicked
+2019-09-22 12:58:03,976 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 12:58:03,977 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 12:58:04,105 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 12:58:04,109 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 12:58:04,109 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 13:00:55,363 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 13:01:32,121 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 13:01:32,457 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 13:01:32,457 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 13:01:36,780 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 13:01:36,780 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 13:01:36,836 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 13:01:36,836 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 13:01:36,973 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 13:01:37,349 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 13:04:43,070 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 13:04:55,817 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 13:04:56,367 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 13:04:56,367 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 13:05:00,497 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 13:05:00,497 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 13:05:00,551 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 13:05:00,555 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 13:05:00,771 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 13:05:01,199 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 13:05:53,944 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 13:06:07,063 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 13:06:07,475 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 13:06:07,475 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 13:06:12,745 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 13:06:12,745 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 13:06:12,802 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 13:06:12,802 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 13:06:12,979 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 13:06:13,347 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 13:09:08,358 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 13:09:28,157 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 13:09:28,447 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 13:09:28,447 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 13:09:32,361 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 13:09:32,366 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 13:09:32,420 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 13:09:32,420 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 13:09:32,555 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 13:09:33,003 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 13:10:09,598 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 13:10:23,813 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 13:10:24,188 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 13:10:24,192 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 13:10:28,391 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 13:10:28,391 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 13:10:28,452 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 13:10:28,452 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 13:10:28,655 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 13:10:29,103 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 13:10:29,831 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 13:10:30,454 - WeightWatchers -INFO - First result link clicked
+2019-09-22 13:10:30,734 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 13:10:30,734 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 13:10:30,894 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 13:10:30,894 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 13:10:30,898 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 13:13:06,474 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 13:13:18,785 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 13:13:19,235 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 13:13:19,235 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 13:13:24,169 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 13:13:24,169 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 13:13:24,227 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 13:13:24,227 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 13:13:24,383 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 13:13:24,751 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 13:13:25,655 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 13:13:26,349 - WeightWatchers -INFO - First result link clicked
+2019-09-22 13:13:26,533 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 13:13:26,533 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 13:13:26,709 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 13:13:26,713 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 13:13:26,717 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 13:15:58,164 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 13:16:11,525 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 13:16:11,808 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 13:16:11,808 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 13:16:15,898 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 13:16:15,898 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 13:16:15,951 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 13:16:15,951 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 13:16:16,099 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 13:16:16,487 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 13:18:27,317 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 13:18:38,664 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 13:18:39,108 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 13:18:39,108 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 13:18:43,198 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 13:18:43,202 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 13:18:43,252 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 13:18:43,252 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 13:18:43,421 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 13:18:43,770 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 13:18:44,789 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 13:18:45,534 - WeightWatchers -INFO - First result link clicked
+2019-09-22 13:18:45,742 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 13:18:45,742 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 13:18:45,954 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 13:18:45,954 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 13:18:45,958 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 13:28:54,188 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 13:29:07,136 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 13:29:07,600 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 13:29:07,600 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 13:29:12,552 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 13:29:12,552 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 13:29:12,618 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 13:29:12,618 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 13:29:12,801 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 13:29:13,245 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 13:29:14,257 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 13:29:15,197 - WeightWatchers -INFO - First result link clicked
+2019-09-22 13:29:15,627 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 13:29:15,627 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 13:29:15,779 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 13:29:15,779 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 13:29:15,783 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 13:31:10,426 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 13:31:25,453 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 13:31:25,881 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 13:31:25,881 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 13:31:30,286 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 13:31:30,286 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 13:31:30,371 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 13:31:30,375 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 13:31:30,567 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 13:31:30,951 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 13:31:31,723 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 13:31:32,402 - WeightWatchers -INFO - First result link clicked
+2019-09-22 13:31:32,558 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 13:31:32,558 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 13:31:32,734 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 13:31:32,734 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 13:31:32,739 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 13:34:16,279 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 13:34:27,016 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 13:34:27,542 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 13:34:27,542 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 13:34:32,390 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 13:34:32,390 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 13:34:32,441 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 13:34:32,441 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 13:34:32,747 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 13:34:33,111 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 13:34:34,315 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 13:34:34,685 - WeightWatchers -INFO - First result link clicked
+2019-09-22 13:34:35,394 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 13:34:35,394 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 13:34:35,586 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 13:34:35,586 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 13:34:35,586 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 13:56:09,993 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 13:56:26,678 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 13:56:27,138 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 13:56:27,326 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 13:56:32,709 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 13:56:32,713 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 13:56:32,766 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 13:56:32,766 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 13:56:32,902 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 13:56:33,538 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 13:56:34,410 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 13:56:35,097 - WeightWatchers -INFO - First result link clicked
+2019-09-22 13:56:35,301 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 13:56:35,305 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 13:56:35,541 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 13:56:35,544 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 13:56:35,546 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 14:00:08,382 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 14:00:23,839 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 14:00:24,203 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 14:00:24,203 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 14:00:28,832 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 14:00:28,834 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 14:00:28,905 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 14:00:28,905 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 14:00:29,065 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 14:00:29,504 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 14:00:30,531 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 14:00:31,460 - WeightWatchers -INFO - First result link clicked
+2019-09-22 14:00:31,848 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 14:00:31,848 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 14:00:31,972 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 14:00:31,972 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 14:00:31,976 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 14:02:10,879 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 14:02:22,180 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 14:02:22,653 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 14:02:22,653 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 14:02:26,449 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 14:02:26,451 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 14:02:26,505 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 14:02:26,505 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 14:02:26,637 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 14:02:27,109 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 14:02:28,127 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 14:02:28,911 - WeightWatchers -INFO - First result link clicked
+2019-09-22 14:02:29,055 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 14:02:29,055 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 14:02:29,287 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 14:02:29,290 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 14:02:29,292 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 14:04:02,635 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 14:04:13,697 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 14:04:14,175 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 14:04:14,175 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 14:04:18,253 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 14:04:18,257 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 14:04:18,328 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 14:04:18,328 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 14:04:18,492 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 14:04:18,876 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 14:04:19,784 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 14:04:20,417 - WeightWatchers -INFO - First result link clicked
+2019-09-22 14:04:20,636 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 14:04:20,636 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 14:04:20,740 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 14:04:20,740 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 14:04:20,744 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 14:05:24,823 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 14:05:36,350 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 14:05:36,851 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 14:05:36,851 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 14:05:41,720 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 14:05:41,720 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 14:05:41,809 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 14:05:41,809 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 14:05:42,057 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 14:05:42,393 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 14:05:43,289 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 14:05:43,991 - WeightWatchers -INFO - First result link clicked
+2019-09-22 14:05:44,191 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 14:05:44,191 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 14:05:44,391 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 14:05:44,391 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 14:05:44,397 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 14:06:43,458 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 14:06:54,340 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 14:06:54,722 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 14:06:54,722 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 14:06:59,234 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 14:06:59,236 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 14:06:59,296 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 14:06:59,296 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 14:06:59,436 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 14:06:59,812 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 14:07:00,640 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 14:07:01,220 - WeightWatchers -INFO - First result link clicked
+2019-09-22 14:07:01,416 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 14:07:01,420 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 14:07:01,560 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 14:07:01,564 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 14:07:01,564 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 14:10:50,191 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 14:11:01,572 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 14:11:01,778 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 14:11:01,782 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 14:11:06,359 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 14:11:06,359 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 14:11:06,426 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 14:11:06,426 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 14:11:06,590 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 14:11:07,122 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 14:11:08,271 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 14:11:09,179 - WeightWatchers -INFO - First result link clicked
+2019-09-22 14:11:09,458 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 14:11:09,458 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 14:11:09,598 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 14:11:09,598 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 14:11:09,598 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 14:27:53,910 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 14:28:09,969 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 14:28:10,251 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 14:28:10,251 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 14:28:14,262 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 14:28:14,266 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 14:28:14,326 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 14:28:14,330 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 14:28:14,474 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 14:28:14,794 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 14:28:15,622 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 14:28:16,486 - WeightWatchers -INFO - First result link clicked
+2019-09-22 14:28:16,618 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 14:28:16,618 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 14:28:16,798 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 14:28:16,801 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 14:28:16,802 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 14:31:21,885 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 14:31:33,749 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 14:31:34,264 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 14:31:34,264 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 14:31:38,741 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 14:31:38,741 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 14:31:38,814 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 14:31:38,814 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 14:31:38,970 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 14:31:39,558 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 14:31:40,984 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 14:31:41,499 - WeightWatchers -INFO - First result link clicked
+2019-09-22 14:31:42,147 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 14:31:42,147 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 14:31:42,215 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 14:31:42,215 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 14:31:42,219 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 14:33:57,761 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 14:34:09,361 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 14:34:09,817 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 14:34:09,817 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 14:34:13,826 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 14:34:13,828 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 14:34:13,883 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 14:34:13,883 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 14:34:14,075 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 14:34:14,459 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 14:34:15,347 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 14:34:15,956 - WeightWatchers -INFO - First result link clicked
+2019-09-22 14:34:16,104 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 14:34:16,104 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 14:34:16,244 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 14:34:16,248 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 14:34:16,248 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 14:34:53,077 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 14:35:05,944 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 14:35:06,503 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 14:35:06,503 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 14:35:10,717 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 14:35:10,717 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 14:35:10,811 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 14:35:10,811 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 14:35:10,987 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 14:35:11,379 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 14:35:12,263 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 14:35:12,584 - WeightWatchers -INFO - First result link clicked
+2019-09-22 14:35:13,012 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 14:35:13,012 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 14:35:13,132 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 14:35:13,132 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 14:35:13,132 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 14:45:23,392 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 14:45:35,310 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 14:45:35,720 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 14:45:35,720 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 14:45:40,422 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 14:45:40,422 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 14:45:40,470 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 14:45:40,470 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 14:45:40,775 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 14:45:41,159 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 14:45:42,201 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 14:45:42,880 - WeightWatchers -INFO - First result link clicked
+2019-09-22 14:45:43,104 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 14:45:43,108 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 14:45:43,152 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 14:45:43,152 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 14:45:43,152 - WeightWatchers -INFO - Step 8 has Passed
+2019-09-22 17:00:57,027 - WeightWatchers -DEBUG - Debug logging has started 
+2019-09-22 17:01:18,090 - WeightWatchers -INFO - Starting test case WW_TC_002
+2019-09-22 17:01:19,478 - WeightWatchers -INFO - Verify loaded page title matches “WW (Weight Watchers): Weight Loss & Wellness Help” 
+2019-09-22 17:01:19,479 - WeightWatchers -INFO - Step 2 has Passed 
+2019-09-22 17:01:28,022 - WeightWatchers -INFO - User has clicked on Find A Studio option
+2019-09-22 17:01:28,022 - WeightWatchers -INFO - Step 3 has Passed 
+2019-09-22 17:01:28,119 - WeightWatchers -INFO -  Verify loaded page title contains “Find WW Studios & Meetings Near You | WW USA” 
+2019-09-22 17:01:28,120 - WeightWatchers -INFO - Step 4 has Passed
+2019-09-22 17:01:28,488 - WeightWatchers -INFO - In the search field, search for meetings for zip code: 10011
+2019-09-22 17:01:28,929 - WeightWatchers -INFO - Step 5 passed
+2019-09-22 17:01:30,798 - WeightWatchers -INFO - Ste6 6 Passed:  Print the title of the first result and the distance (located on the right of location title/name)
+2019-09-22 17:01:31,791 - WeightWatchers -INFO - First result link clicked
+2019-09-22 17:01:32,259 - WeightWatchers -INFO -  verify displayed location name/title matches with the name of the first searched result that was clicked
+2019-09-22 17:01:32,260 - WeightWatchers -INFO - Step7 has passed 
+2019-09-22 17:01:32,604 - WeightWatchers -INFO - From this location page, print TODAY’s hours of operation (located towards the bottom of the page)
+2019-09-22 17:01:32,604 - WeightWatchers -INFO - I wanted to display Sundays hours of operation
+2019-09-22 17:01:32,606 - WeightWatchers -INFO - Step 8 has Passed
