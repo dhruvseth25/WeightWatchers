@@ -4,6 +4,7 @@ Content of repository:
 
   * To compile: javac Question1.java
   * To execute: java Question1 FILE_PATH
+  * Sample data file is provided in the folder. Sample data filename: data.txt
 
 2) Folder Question2 contains code for Question 2.
 
